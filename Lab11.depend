@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1656295697 source:c:\code blocks\lab11\agendatel.c
+	"AgendaTel.h"
+	"listaEstatica.h"
+
+1656295697 c:\code blocks\lab11\agendatel.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1656297038 c:\code blocks\lab11\listaestatica.h
+	"AgendaTel.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<limits.h>
+	<string.h>
+
+1656295697 source:c:\code blocks\lab11\arvbin.c
+	"ArvBin.h"
+
+1656295697 c:\code blocks\lab11\arvbin.h
+	"AgendaTel.h"
+	"listaDinamica.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1656295910 c:\code blocks\lab11\listadinamica.h
+	"AgendaTel.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<limits.h>
+	<string.h>
+
+1656295697 source:c:\code blocks\lab11\avl.c
+	"AVL.h"
+
+1656295697 c:\code blocks\lab11\avl.h
+	"AgendaTel.h"
+	"listaDinamica.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1656295697 source:c:\code blocks\lab11\hash.c
+	"Hash.h"
+
+1656295697 c:\code blocks\lab11\hash.h
+	"AgendaTel.h"
+	"listaDinamica.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1656297873 source:c:\code blocks\lab11\insertion.c
+	"insertion.h"
+	"listaEstatica.h"
+	"listaDinamica.h"
+
+1656297873 c:\code blocks\lab11\insertion.h
+	"listaEstatica.h"
+	"AgendaTel.h"
+	<string.h>
+
+1656296352 source:c:\code blocks\lab11\listadinamica.c
+	"AgendaTel.h"
+	"listaDinamica.h"
+
+1656297227 source:c:\code blocks\lab11\listaestatica.c
+	"AgendaTel.h"
+	"listaEstatica.h"
+
+1656295697 source:c:\code blocks\lab11\pesquisa.c
+	"pesquisa.h"
+	"AgendaTel.h"
+	"listaEstatica.h"
+
+1656295697 c:\code blocks\lab11\pesquisa.h
+	"AgendaTel.h"
+	"listaEstatica.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<limits.h>
+	<string.h>
+
+1656295923 source:c:\code blocks\lab11\arquivo.c
+	"arquivo.h"
+
+1656295697 c:\code blocks\lab11\arquivo.h
+	"listaEstatica.h"
+	"AgendaTel.h"
+	"ArvBin.h"
+	"AVL.h"
+	"Hash.h"
+	<stdio.h>
+	<stdlib.h>
+
+1656297959 source:c:\code blocks\lab11\main.c
+	"listaEstatica.h"
+	"AgendaTel.h"
+	"insertion.h"
+	"pesquisa.h"
+	"arquivo.h"
+	"ArvBin.h"
+	"AVL.h"
+	"Hash.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
